@@ -22,6 +22,7 @@
 ### after click the start option and select printing option standard as shown in below figure.
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
 ### Step 10.:- After generate the gcode format then follow the these instruction 
+
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
   ###   ●	Clean your surface bed plate.
